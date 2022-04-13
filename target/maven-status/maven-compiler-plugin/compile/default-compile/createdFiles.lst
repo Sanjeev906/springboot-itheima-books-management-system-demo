@@ -1,0 +1,9 @@
+com\example\controller\utils\ProjectExceptionAdvice.class
+com\example\controller\BookController.class
+com\example\pojo\Book.class
+com\example\config\mpconfig\MpConfig.class
+com\example\controller\utils\R.class
+com\example\dao\BookDao.class
+com\example\SpringbootSsmpApplication.class
+com\example\service\BookService.class
+com\example\impl\BookServiceImpl.class

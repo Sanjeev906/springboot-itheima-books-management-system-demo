@@ -1,0 +1,23 @@
+#server:
+#  port: 80
+#
+#spring:
+#  datasource:
+#    druid:
+#      driver-class-name: com.mysql.cj.jdbc.Driver
+#      url: jdbc:mysql://xxxxxxx:3306/xxxx
+#      username: xxxx
+#      password: xxxxxx
+#  output:
+#    ansi:
+#      enabled: always
+#
+#mybatis-plus:
+#  global-config:
+#    db-config:
+#      table-prefix: tbl_
+#      id-type: auto
+#
+#logging:
+#  level:
+#    com.example.dao: debug
